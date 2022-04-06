@@ -72,9 +72,9 @@ You can click the Preview link to take a look at your changes.
 [![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://trentondavis.dev)
 [![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://trentondavis.dev)
 
----
+<!---
 
 ### 🔝 Most used languages
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davis3tnpolitics&count_private=true&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
 
----
+--->
