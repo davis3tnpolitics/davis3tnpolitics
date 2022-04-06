@@ -36,8 +36,7 @@ You can click the Preview link to take a look at your changes.
 [![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://trentondavis.dev)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://trentondavis.dev)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://trentondavis.dev)
-[![sql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://trentondavis.dev)
-[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://trentondavis.dev)
+[![sql](https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://trentondavis.dev)
 
 ### 🧩 Frameworks/Libraries
 
@@ -46,7 +45,6 @@ You can click the Preview link to take a look at your changes.
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://trentondavis.dev)
 [![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://trentondavis.dev)
 [![django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)](https://trentondavis.dev)
-[![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://trentondavis.dev)
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://trentondavis.dev)
 [![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://trentondavis.dev)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://trentondavis.dev)
@@ -67,7 +65,6 @@ You can click the Preview link to take a look at your changes.
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://trentondavis.dev)
 [![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://trentondavis.dev)
 [![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://trentondavis.dev)
-[![gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)](https://trentondavis.dev)
 
 ### 🧠 IDEs/Text Editors I use
 
