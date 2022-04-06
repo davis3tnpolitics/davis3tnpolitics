@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available [here](https://trentondavis.dev/work/projects)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Ohio's Voter File**
 
 - 📫 How to reach me **trenton@contested.us**
 
