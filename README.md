@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=davis3tnpolitics&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="Trenton's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=davis3tnpolitics&theme=tokyonight&hide_border=true" alt="Trenton's github streak" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=davis3tnpolitics&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Trenton's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=davis3tnpolitics&theme=tokyonight&hide_border=true&count_private=true" alt="Trenton's github streak" width="48%" >
 
 ---
 
@@ -75,6 +75,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🔝 Most used languages
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davis3tnpolitics&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davis3tnpolitics&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact&count_private=true" />
 
 ---
