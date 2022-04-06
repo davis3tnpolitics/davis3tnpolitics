@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Trenton</h1>
-<h3 align="center">I run a little company called Contested. We help win elections. Contact me at support@contested.us!</h3>
+<h3 align="center">I run a little company called Contested. We help win elections.</h3>
 <h3 align="center">🌐 Web Developer 🗳️ Political Consultant 🔮 Futurist</h3>
 
 - 🌱 I’m currently learning **Vue.js**
