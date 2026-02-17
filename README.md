@@ -34,37 +34,6 @@
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img
-    src="https://github-readme-gilt-three.vercel.app/api?username=davis3tnpolitics&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Trenton's GitHub stats"
-    width="49%"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=davis3tnpolitics&count_private=true&theme=tokyonight&hide_border=true"
-    alt="Trenton's GitHub streak"
-    width="49%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-gilt-three.vercel.app/api/top-langs/?username=davis3tnpolitics&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&layout=compact"
-    alt="Top languages"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=davis3tnpolitics&theme=github-compact&hide_border=true"
-    alt="GitHub activity graph"
-    width="49%"
-  />
-</p>
-
-
----
-
 ## 🧰 Core stack
 
 **Languages:** TypeScript/JavaScript • Python • SQL/T-SQL  
