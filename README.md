@@ -34,16 +34,16 @@
 
 ---
 
-## 📊 GitHub stats (includes commit activity)
+## 📊 GitHub stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=davis3tnpolitics&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-gilt-three.vercel.app/api?username=davis3tnpolitics&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true"
     alt="Trenton's GitHub stats"
     width="49%"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=davis3tnpolitics&count_private=true&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=davis3tnpolitics&count_private=true&theme=tokyonight&hide_border=true"
     alt="Trenton's GitHub streak"
     width="49%"
   />
@@ -51,22 +51,17 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=davis3tnpolitics&theme=github-compact&hide_border=true"
-    alt="Trenton's GitHub activity graph"
-    width="98%"
-  />
-</p>
-
-<!-- Optional: keep this if you like a compact language card -->
-<!--
-<p align="center">
-  <img
+    src="https://github-readme-gilt-three.vercel.app/api/top-langs/?username=davis3tnpolitics&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&layout=compact"
     alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davis3tnpolitics&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&layout=compact"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=davis3tnpolitics&theme=github-compact&hide_border=true"
+    alt="GitHub activity graph"
     width="49%"
   />
 </p>
--->
+
 
 ---
 
@@ -85,4 +80,3 @@
 ## 🤝 Want to collaborate?
 
 - Ask me about: **data products**, **Fabric architecture**, **analytics layers**, **API integrations**, and **civic/political tech**.
-- Reach me: **trentondavis2@gmail.com** (or open an issue / DM on LinkedIn)
